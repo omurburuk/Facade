@@ -1,0 +1,6 @@
+c:\users\ömür\documents\visual studio 2015\Projects\Facade\Facade\bin\Debug\Facade.exe.config
+c:\users\ömür\documents\visual studio 2015\Projects\Facade\Facade\bin\Debug\Facade.exe
+c:\users\ömür\documents\visual studio 2015\Projects\Facade\Facade\bin\Debug\Facade.pdb
+c:\users\ömür\documents\visual studio 2015\Projects\Facade\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+c:\users\ömür\documents\visual studio 2015\Projects\Facade\Facade\obj\Debug\Facade.exe
+c:\users\ömür\documents\visual studio 2015\Projects\Facade\Facade\obj\Debug\Facade.pdb
